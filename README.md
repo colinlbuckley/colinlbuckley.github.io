@@ -1,6 +1,6 @@
 # colinlbuckley.github.io
 
-# Data Science Portfolio
+## Data Science Portfolio
 
 ## [Project 1: International COVID-19 Vaccination Progress Comparator](https://github.com/colinlbuckley/vaccination_progress_app)
 * Created an interactive Shiny web application in R that reads in a global vaccination dataset and visualizes vaccination progress between up to eight countries at a time.
