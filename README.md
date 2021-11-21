@@ -8,3 +8,5 @@ Data Science Portfolio
 * Adapted an R script to pull regularly updated vaccine data from Kaggle.com.
 * Performed simple data cleaning and manipulation with dplyr.
 * Hosted the app on shinyapps.io
+
+![](/images/thumbnail.png)
