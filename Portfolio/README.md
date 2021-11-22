@@ -10,4 +10,4 @@
 * Performed simple data cleaning and manipulation with dplyr.
 * Hosted the app on shinyapps.io [here](https://colinlbuckley.shinyapps.io/vaccine_progress_app/)
 
-![](/Portfolio/images/g7_total_per_hundred.png)
+![](/Portfolio/Images/g7_total_per_hundred.png)
