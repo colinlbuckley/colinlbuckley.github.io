@@ -2,7 +2,7 @@
 
 ### Colin L. Buckley
 
-## [Project 1: Exploratory Data Analysis: Titanic - Machine Learning from Disaster](https://colinlbuckley.github.io/Titanic_EDA)
+## [Project 1: Exploratory Data Analysis for Feature Selection - Titanic Kaggle Competition](https://colinlbuckley.github.io/Titanic_EDA)
 * Explored Titanic passenger dataset with the aim of informing feature selection for Kaggle machine learning competition.
 * Examined broad data characteristics (size, shape, variables, etc.).
 * Performed visual EDA to explore univariate distributions and bivariate relationships between predictors and target variable.
