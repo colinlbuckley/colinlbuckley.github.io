@@ -2,7 +2,18 @@
 
 ### Colin L. Buckley
 
-## [Project 1: International COVID-19 Vaccination Progress Comparator](https://github.com/colinlbuckley/vaccination_progress_app)
+## [Project 1: Exploratory Data Analysis: Titanic - Machine Learning from Disaster](https://colinlbuckley.github.io/Titanic_EDA)
+* Explored Titanic passenger dataset with the aim of informing feature selection for Kaggle machine learning competition.
+* Examined broad data characteristics (size, shape, variables, etc.).
+* Performed visual EDA to explore univariate distributions and bivariate relationships between predictors and target variable.
+* Implemented basic feature engineering to improve predictive strength later on.
+* Investigated statistical relationships with preliminary multiple logistic regression model.
+* Built a polished HTML notebook with RMarkdown for publication.
+* Full repository available [here](https://github.com/colinlbuckley/Titanic_ML_Kaggle)
+
+![](/Portfolio/Images/Pclass_Survival_distribution.png)
+
+## [Project 2: International COVID-19 Vaccination Progress Comparator](https://github.com/colinlbuckley/vaccination_progress_app)
 * Created an interactive Shiny web application in R that reads in a global vaccination dataset and visualizes vaccination progress between up to eight countries at a time.
 * Built a simple UI with interactive inputs, allowing users to search for and select countries and dependent variables.
 * Coded a reactive ggplot2 visualization that compares time series data across countries
