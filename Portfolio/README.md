@@ -2,7 +2,17 @@
 
 ### Colin L. Buckley
 
-## [Project 1: Exploratory Data Analysis for ML Feature Selection - Titanic Kaggle Competition](https://colinlbuckley.github.io/Titanic_EDA)
+## [Project 1: Steam Player Count Data - HTML Scraping and Dashboard](https://github.com/colinlbuckley/Steamcharts_Dashboard)
+* Used {rvest} to scrape video game player count data from [Steamcharts](https://steamcharts.com/).  
+* Implemented iterative HTML scraping functions in streamlined and well-documented code.  
+* Employed {polite} to adhere to ethical web scraping standards and ensure compliance with the site's robots.txt file.  
+* Performed necessary cleaning and engineering with {dplyr}.  
+* Ensured reproducibility at all stages so that monthly time series data can be re-scraped and updated regularly.
+* Built and deployed a polished {shiny} dashboard to display final data. 
+
+![](/Portfolio/Images/steamcharts_dashboard_screenshot.png)
+
+## [Project 2: Exploratory Data Analysis for ML Feature Selection - Titanic Kaggle Competition](https://colinlbuckley.github.io/Titanic_EDA)
 * Explored Titanic passenger dataset with the aim of informing feature selection for Kaggle machine learning competition.
 * Examined broad data characteristics (size, shape, variables, etc.).
 * Performed visual EDA to explore univariate distributions and bivariate relationships between predictors and target variable.
@@ -13,7 +23,7 @@
 
 ![](/Portfolio/Images/Pclass_Survival_distribution.png)
 
-## [Project 2: International COVID-19 Vaccination Progress Comparator](https://github.com/colinlbuckley/vaccination_progress_app)
+## [Project 3: International COVID-19 Vaccination Progress Comparator](https://github.com/colinlbuckley/vaccination_progress_app)
 * Created an interactive Shiny web application in R that reads in a global vaccination dataset and visualizes vaccination progress between up to eight countries at a time.
 * Built a simple UI with interactive inputs, allowing users to search for and select countries and dependent variables.
 * Coded a reactive ggplot2 visualization that compares time series data across countries
