@@ -9,6 +9,7 @@
 * Performed necessary cleaning and engineering with {dplyr}.  
 * Ensured reproducibility at all stages so that monthly time series data can be re-scraped and updated regularly.
 * Built and deployed a polished {shiny} dashboard to display final data. 
+* Published dashboard on shinyapps.io [here](https://colinlbuckley.shinyapps.io/Steamcharts_Dashboard/).
 
 ![](/Portfolio/Images/steamcharts_dashboard_screenshot.png)
 
