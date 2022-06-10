@@ -12,7 +12,7 @@
 
 ![](/Portfolio/Images/steamcharts_dashboard_screenshot.png)
 
-## [Project 2: Exploratory Data Analysis for ML Feature Selection - Titanic Kaggle Competition](https://colinlbuckley.github.io/Titanic_EDA)
+## [Project 2: Exploratory Data Analysis for ML Feature Selection - Titanic Kaggle Competition](https://colinlbuckley.github.io/Titanic_EDA_Notebook)
 * Explored Titanic passenger dataset with the aim of informing feature selection for Kaggle machine learning competition.
 * Examined broad data characteristics (size, shape, variables, etc.).
 * Performed visual EDA to explore univariate distributions and bivariate relationships between predictors and target variable.
