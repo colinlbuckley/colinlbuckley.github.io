@@ -2,7 +2,7 @@
 
 ### Colin L. Buckley
 
-## [Project 1: ACS Broadband Vignette](https://github.com/colinlbuckley/Steamcharts_Dashboard)
+## [Project 1: ACS Broadband Vignette](https://github.com/colinlbuckley/ACS_Broadband_Vignette)
 * Leveraged ACS data to create a preliminary proof-of-concept vignette visualizing county-level spatial trends in U.S. broadband access.  
 * Built experience with ACS data structures, Census Bureau APIs, and relevant mapping packages in R.  
 * Constructed a robust data visualization outline to facilitate a forthcoming quantitative analysis of broadband access against socioeconomic markers.  
